@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+tqdm
+tzlocal
+lxml
+playwright-stealth
+psutil
